@@ -47,3 +47,6 @@ hi htmlItalic       ctermbg=none              cterm=none
 
 " Javascript specific
 hi javaScriptParens              ctermfg=74
+
+" MarkDown specific
+hi markdownItalic   ctermbg=none ctermfg=254
