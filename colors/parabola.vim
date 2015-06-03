@@ -43,7 +43,7 @@ hi Statement                     ctermfg=74   cterm=none
 hi Type                          ctermfg=221  cterm=none
 
 " HTML specific
-hi htmlItalic       ctermbg=none              cterm=none
+hi htmlItalic       ctermbg=233  ctermfg=254  cterm=none
 
 " Javascript specific
 hi javaScriptParens              ctermfg=74
