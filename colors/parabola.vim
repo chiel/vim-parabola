@@ -13,14 +13,15 @@ hi ColorColumn      ctermbg=234
 hi CursorLine       ctermbg=234               cterm=none
 hi Folded           ctermbg=none ctermfg=238
 hi LineNr           ctermbg=235  ctermfg=242  cterm=none
-hi MatchParen       ctermbg=167  ctermfg=16   cterm=bold
+hi MatchParen       ctermbg=238  ctermfg=232  cterm=bold
+hi SignColumn       ctermbg=234
 hi SpecialKey       ctermbg=none ctermfg=236  cterm=none
 hi StatusLine       ctermbg=89   ctermfg=254  cterm=none
 hi StatusLineNC     ctermbg=235  ctermfg=240  cterm=none
 hi TabLineFill      ctermbg=235  ctermfg=240  cterm=none
 hi TabLine          ctermbg=235  ctermfg=240  cterm=none
 hi TabLineSel       ctermbg=89   ctermfg=254  cterm=none
-hi VertSplit        ctermbg=236  ctermfg=240  cterm=none
+hi VertSplit        ctermbg=235  ctermfg=235  cterm=none
 
 " Diffs
 hi DiffAdd          ctermbg=22   ctermfg=82
