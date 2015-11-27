@@ -24,10 +24,12 @@ hi TabLineSel       ctermbg=89   ctermfg=254  cterm=none
 hi VertSplit        ctermbg=235  ctermfg=235  cterm=none
 
 " Diffs
-hi DiffAdd          ctermbg=22   ctermfg=82
+hi DiffAdd          ctermbg=none ctermfg=70
 hi DiffChange       ctermbg=236
-hi DiffDelete       ctermbg=52   ctermfg=52
+hi DiffDelete       ctermbg=none ctermfg=160
 hi DiffText         ctermbg=237  ctermfg=217  cterm=bold
+hi link diffAdded DiffAdd
+hi link diffRemoved DiffDelete
 
 " Comments
 hi Comment                       ctermfg=242  cterm=none
