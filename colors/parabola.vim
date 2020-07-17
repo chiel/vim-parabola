@@ -22,6 +22,7 @@ hi TabLineFill      ctermbg=235  ctermfg=240  cterm=none
 hi TabLine          ctermbg=235  ctermfg=240  cterm=none
 hi TabLineSel       ctermbg=89   ctermfg=254  cterm=none
 hi VertSplit        ctermbg=235  ctermfg=235  cterm=none
+hi Whitespace       ctermbg=none ctermfg=236  cterm=none
 
 " Diffs
 hi DiffAdd          ctermbg=none ctermfg=70
